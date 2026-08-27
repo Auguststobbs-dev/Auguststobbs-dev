@@ -1,36 +1,59 @@
+You're right. The previous icon URLs were unreliable because several of those paths do not exist in the `readme-generator` icon repository. The safest approach is to use **Simple Icons CDN**, which has stable SVG paths.
+
+Here is the corrected **single-block README**, using icons that reliably render:
+
+```markdown
 ## **AUGUST STOBBS**
 
 🖥️ Senior Technical Lead | .NET Application Development </br>
 
 🎓 **BS Computer Science** — Greenville University 🇺🇸
 
-* 💻  Building scalable backend systems for high-traffic e-commerce and marketplace platforms
-* ☁️  Specialized in **C#, .NET, Azure, SQL Server, APIs & DevOps**
-* 🚀  Experienced in enterprise API architecture, cloud deployments, CI/CD, performance optimization, and production systems
-* 🤖  AI-assisted development with **GitHub Copilot, Cursor, Claude Code & MCP servers**
-* 👥  Lead and mentor distributed engineering teams while remaining hands-on with architecture and development
+* 💻 Building scalable backend systems for high-traffic e-commerce and marketplace platforms
+* ☁️ Specialized in **C#, .NET, Azure, SQL Server, APIs & DevOps**
+* 🚀 Experienced in enterprise API architecture, cloud deployments, CI/CD, performance optimization, and production systems
+* 🤖 AI-assisted development with **GitHub Copilot, Cursor, Claude Code & MCP Servers**
+* 👥 Lead and mentor distributed engineering teams while remaining hands-on with architecture and development
 
 I design and build reliable **.NET backend services, REST APIs, cloud-native applications, and data platforms**. My work spans the full application lifecycle, from SQL schema design and API architecture through automated testing, CI/CD, Azure deployment, and production support.
 
 ### Skills
 
 <p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoftsqlserver-colored.svg" width="36" height="36" alt="SQL Server" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/dotnet/512" width="40" height="40" alt=".NET" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+<img src="https://cdn.simpleicons.org/csharp/512" width="40" height="40" alt="C#" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/microsoftazure/512" width="40" height="40" alt="Azure" />
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/512" width="40" height="40" alt="SQL Server" />
+</a>
+<a href="https://redis.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/redis/512" width="40" height="40" alt="Redis" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/docker/512" width="40" height="40" alt="Docker" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/git/512" width="40" height="40" alt="Git" />
+</a>
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://cdn.simpleicons.org/githubactions/512" width="40" height="40" alt="GitHub Actions" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/javascript/512" width="40" height="40" alt="JavaScript" />
+</a>
 </p>
 
 ### Core Expertise
 
 - 🔹 **Backend:** C#, ASP.NET Web API, .NET Core, Entity Framework, REST APIs
-- 🔹 **Cloud:** Azure, Azure DevOps, Docker, CI/CD pipelines
-- 🔹 **Data:** SQL Server, T-SQL, Redis, stored procedures, indexing, query optimization
+- 🔹 **Cloud:** Azure, Azure DevOps, Docker, CI/CD
+- 🔹 **Data:** SQL Server, T-SQL, Redis, Stored Procedures, Indexing, Query Optimization
 - 🔹 **Engineering:** xUnit, MSTest, OOP, Dependency Injection, Design Patterns, API Versioning
 - 🔹 **AI Development:** GitHub Copilot, Cursor, Claude Code, MCP Servers
 
@@ -46,12 +69,18 @@ I design and build reliable **.NET backend services, REST APIs, cloud-native app
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
+</a>
 </p>
 
 ## Views and Followers
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=auguststobbs">
-<img src="https://img.shields.io/github/followers/auguststobbs?label=Followers&style=social" alt="GitHub Badge">
+<img src="https://img.shields.io/github/followers/auguststobbs?label=Followers&style=social" alt="GitHub Followers">
 </div>
+```
