@@ -6,24 +6,45 @@
 
 * 💻 Building scalable backend systems for high-traffic e-commerce and marketplace platforms
 * ☁️ Specialized in **C#, .NET, Azure, SQL Server, APIs & DevOps**
-* 🚀 Experienced in enterprise API architecture, cloud deployments, CI/CD, performance optimization, and production systems
+* 🚀 10+ years building, deploying, and supporting production software
 * 🤖 AI-assisted development with **GitHub Copilot, Cursor, Claude Code & MCP Servers**
-* 👥 Lead and mentor distributed engineering teams while remaining hands-on with architecture and development
+* 👥 Technical leadership, architecture, mentoring, and hands-on development
 
-I design and build reliable **.NET backend services, REST APIs, cloud-native applications, and data platforms**. My work spans the full application lifecycle, from SQL schema design and API architecture through automated testing, CI/CD, Azure deployment, and production support.
+I build reliable **.NET backend services, REST APIs, cloud applications, and data platforms**, with experience across architecture, development, testing, CI/CD, Azure deployment, and production support.
 
 ### Skills
 
 <p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dotnet" width="40" height="40" alt=".NET" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/csharp" width="40" height="40" alt="C#" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftazure" width="40" height="40" alt="Azure" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="40" height="40" alt="SQL Server" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redis" width="40" height="40" alt="Redis" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" /></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" /></a>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/MSTest-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+
 </p>
 
 ### Core Expertise
@@ -40,30 +61,42 @@ I design and build reliable **.NET backend services, REST APIs, cloud-native app
 - 🛒 **Vat19** — Senior Engineer | C#, ASP.NET Web API, SQL Server, CI/CD
 - ⚡ Reduced deployment turnaround from **half a day to under one hour** through Azure DevOps CI/CD
 - 🧪 Built automated tests for critical checkout, payout, payment, and shipping workflows
-- 📊 Optimized SQL Server schemas, indexes, stored procedures, and high-volume transactional workloads
-- 👥 Mentored distributed engineering teams and established engineering and code-review standards
+- 📊 Optimized SQL Server schemas, indexes, stored procedures, and transactional workloads
+- 👥 Mentored distributed engineering teams and established engineering standards
 
-### Technical Focus
+### Engineering Focus
 
 <p align="left">
-<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-Data-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Architecture-API_First-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-SQL_Optimization-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing-Automated-512BD4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Production-Reliability-2EA44F?style=for-the-badge" />
+
 </p>
 
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub" /></a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ## Views and Followers
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=auguststobbs">
-<img src="https://img.shields.io/github/followers/auguststobbs?label=Followers&style=social" alt="GitHub Followers">
+
+<img src="https://komarev.com/ghpvc/?username=auguststobbs&style=flat-square">
+
+<img src="https://img.shields.io/github/followers/auguststobbs?label=Followers&style=social">
+
 </div>
