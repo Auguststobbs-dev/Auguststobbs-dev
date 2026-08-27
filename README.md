@@ -1,8 +1,3 @@
-You're right. The previous icon URLs were unreliable because several of those paths do not exist in the `readme-generator` icon repository. The safest approach is to use **Simple Icons CDN**, which has stable SVG paths.
-
-Here is the corrected **single-block README**, using icons that reliably render:
-
-```markdown
 ## **AUGUST STOBBS**
 
 🖥️ Senior Technical Lead | .NET Application Development </br>
@@ -83,4 +78,3 @@ I design and build reliable **.NET backend services, REST APIs, cloud-native app
 <img src="https://komarev.com/ghpvc/?username=auguststobbs">
 <img src="https://img.shields.io/github/followers/auguststobbs?label=Followers&style=social" alt="GitHub Followers">
 </div>
-```
